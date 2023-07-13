@@ -4,7 +4,12 @@
 
 I'm a software engineer (c. 1998) specializing in web applications.  
 
-<h3 align="left">🤙 Hit me up:</h3>
+#### 🤙 Hit me up:
+
+<a href="mailto:craigpestell@gmail.com" target="blank"><img align="center"
+      src="./gmail.svg"
+      alt="craigpestell@gmail.com" height="16" style="aspect-ratio: 1 / 1; vertical-align: -1.05px; line-height: 16px;" /></a>
+ Reach me at **craigpestell@gmail.com**
 <p align="left">
   <a href="https://www.linkedin.com/in/craigpestell/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
