@@ -1,9 +1,9 @@
 <img src="./banner.webp" alt="banner"/>
+<h1 align="center">Hi 👋, I'm Craig Pestell</h1>
+<h3 align="center">I'm a software engineer (c. 1998) specializing in web applications.</h3>
 
-### Hi there 👋
-
-<p align="left">I'm a software engineer (c. 1998) specializing in web applications.</p>
-<p>Check out my <a href="https://craigpestell.com" alt="Craig Pestell's Bio">website</a> built with React to showcase my work and experience. See the <a href="https://github.com/craigpestell/react-resume-2023">GitHub repo</a>.
+<p align="left"></p>
+<p>Check out my <a href="https://craigpestell.com" target="_blank" alt="Craig Pestell's Bio">website</a> built with React to showcase my work and experience. See the <a href="https://github.com/craigpestell/react-resume-2023">GitHub repo</a>.
 
 #### 🤙 Hit me up:
 
