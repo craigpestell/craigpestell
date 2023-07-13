@@ -2,20 +2,21 @@
 
 ### Hi there 👋
 
-I'm a software engineer (c. 1998) specializing in web applications.  
+<p align="left">I'm a software engineer (c. 1998) specializing in web applications.</p>
+<p>Check out my <a href="https://craigpestell.com" alt="Craig Pestell's Bio">website</a> built with React to showcase my work and experience. See the <a href="https://github.com/craigpestell/react-resume-2023">GitHub repo</a>.
 
 #### 🤙 Hit me up:
 
 <p align="left">
-  <a href="mailto:craigpestell@gmail.com" target="blank"><img align="center"
-      src="./gmail.svg"
-      alt="craigpestell@gmail.com" height="30" width="40" /></za>
-  <a href="https://www.linkedin.com/in/craigpestell/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Craig Pestell" height="30" width="40" /></a>
-  <a href="https://instagram.com/repnthew" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+  <a href="mailto:craigpestell@gmail.com" target="blank">
+    <img align="center" src="./gmail.svg" alt="craigpestell@gmail.com" height="30" width="40" style="padding:5px;"/>
+  </za>
+  <a href="https://www.linkedin.com/in/craigpestell/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Craig Pestell" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/repnthew" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="repnthew" height="30" width="40" />
+  </a>
 </p>
 
 #### 🚀 Some Tools I use to build things
@@ -89,6 +90,7 @@ I'm a software engineer (c. 1998) specializing in web applications.
 
 #### 📈 Project planning
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <details>
