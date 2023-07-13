@@ -4,8 +4,8 @@
 <details>
 <summary> <b>📊 Some GitHub stats </b></summary>
 <p align="center">
-  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=Parply&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
-<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parply&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
+  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=craigpestell&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
+<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigpestell&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
 </p>
 </details>
 
