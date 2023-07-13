@@ -1,4 +1,4 @@
-<img src="./banner.webp" alt="banner"/>
+<a href="https://craigpestell.com" target="_blank" alt="Craig Pestell's Bio"><img src="./banner.webp" alt="banner"/></a>
 <h1 align="center">Hi 👋, I'm Craig Pestell</h1>
 <h3 align="center">I'm a software engineer (c. 1998) specializing in web applications.</h3>
 
