@@ -6,11 +6,10 @@ I'm a software engineer (c. 1998) specializing in web applications.
 
 #### 🤙 Hit me up:
 
-<a href="mailto:craigpestell@gmail.com" target="blank"><img align="center"
-      src="./gmail.svg"
-      alt="craigpestell@gmail.com" height="16"/></a>
- Reach me at **craigpestell@gmail.com**
 <p align="left">
+  <a href="mailto:craigpestell@gmail.com" target="blank"><img align="center"
+      src="./gmail.svg"
+      alt="craigpestell@gmail.com" height="30" width="40" /></za>
   <a href="https://www.linkedin.com/in/craigpestell/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Craig Pestell" height="30" width="40" /></a>
