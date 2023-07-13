@@ -190,8 +190,8 @@
 
 <br/>
 <p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigpestell&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=craigpestell&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigpestell&layout=compact&hide=HTML&langs_count=10&theme=transparent"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=craigpestell&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=transparent"/>
 </p>
 
 
