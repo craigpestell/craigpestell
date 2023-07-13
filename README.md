@@ -1,4 +1,4 @@
-<img src="./banner.jpg"/>
+<img src="./banner.webp" alt="banner"/>
 
 ### Hi there 👋
 
