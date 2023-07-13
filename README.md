@@ -1,4 +1,4 @@
-<img src="./2108.w023.n001.941B.p1.941.jpg"/>
+<img src="./banner.jpg"/>
 
 ### Hi there 👋
 
