@@ -3,10 +3,10 @@
 <h3 align="center">I'm a software engineer (c. 1998) specializing in web applications</h3>
 
 <p align="left"></p>
-<p>👀 Check out my <a href="https://craigpestell.com" target="_blank" alt="Craig Pestell's Bio">website</a> built with React to showcase my work and experience. See the <a href="https://github.com/craigpestell/react-resume-2023">GitHub repo</a></p>
+<p>👀 Check out my <a href="https://craigpestell.com" target="_blank" alt="Craig Pestell's Bio">website</a> built with React to showcase my career. See the <a href="https://github.com/craigpestell/react-resume-2023">GitHub repo</a></p>
 <p align="left"> 📄 <a href="https://craigpestell.com/assets/craig%20pestell%20resume.pdf">Download</a> my resume</p>
 
-#### 🤙 Hit me up:
+<p align="left">🤙 Hit me up:</p>
 
 <p align="left">
   <a href="mailto:craigpestell@gmail.com" target="blank">
