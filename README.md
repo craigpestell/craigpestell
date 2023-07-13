@@ -8,7 +8,7 @@ I'm a software engineer (c. 1998) specializing in web applications.
 
 <a href="mailto:craigpestell@gmail.com" target="blank"><img align="center"
       src="./gmail.svg"
-      alt="craigpestell@gmail.com" height="16" style="aspect-ratio: 1 / 1; vertical-align: -1.05px; line-height: 16px;" /></a>
+      alt="craigpestell@gmail.com" height="16"/></a>
  Reach me at **craigpestell@gmail.com**
 <p align="left">
   <a href="https://www.linkedin.com/in/craigpestell/" target="blank"><img align="center"
