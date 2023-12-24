@@ -191,7 +191,7 @@
 
 <br/>
 <p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=craigpestell&layout=compact&hide=HTML&langs_count=10&theme=transparent"/><br/>
+  <img  src="https://craigpestell.com/api/top-langs?username=craigpestell&layout=compact&hide=HTML&langs_coun%20%20%20%20t=10&theme=transparent"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=craigpestell&show_icons=true&hide_border=false&line_height=20&show_owner=true&theme=transparent"/>
 </p>
 
