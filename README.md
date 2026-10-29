@@ -16,6 +16,8 @@ Senior full-stack engineer. I build internal tools that people adopt without bei
 
 **Stack:** Next.js, React, TypeScript, Python, Flask, Kubernetes, Playwright
 
+**Cloud:** AWS, Azure, Google Cloud, DigitalOcean
+
 **Available** for staff and principal IC roles, contract work or consulting. Based in Vancouver, open to California.
 
 [craigpestell.com](https://craigpestell.com) · [LinkedIn](https://www.linkedin.com/in/craigpestell/) · [craigpestell@gmail.com](mailto:craigpestell@gmail.com)
