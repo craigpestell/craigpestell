@@ -12,7 +12,7 @@ Senior full-stack engineer. I build internal tools that people adopt without bei
 
 - [**Variation Converter for WooCommerce**](https://github.com/craigpestell/variation-converter): merges near-duplicate simple products into one variable product, with a preview and one-click undo. [Live on wordpress.org](https://wordpress.org/plugins/variation-converter-for-woocommerce/).
 - [**css-scenes**](https://github.com/craigpestell/css-scenes): full-window scenes in modern CSS, with a framework-free gallery and per-page size budgets.
-- [**craigpestell.com**](https://github.com/craigpestell/resume-2025): my portfolio. Next.js 15, with the PDF resume generated on demand.
+- [**craigpestell.com**](https://github.com/craigpestell/craigpestell.com): my portfolio. Next.js 15, with the PDF resume generated on demand.
 
 **Stack:** Next.js, React, TypeScript, Python, Flask, Kubernetes, Playwright
 
